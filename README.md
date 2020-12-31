@@ -13,3 +13,4 @@ Add fading subtitles to a music video file to sync with the music played on viny
     - Circles_SideD.ass
 5. Use ffmpeg to add fading subtitles to video file.
     - ffmpeg.sh
+    - https://youtu.be/uyl6pJjYsJ0
