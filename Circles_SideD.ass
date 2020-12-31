@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,16,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.51,0:00:30.51,Default,,0,0,0,,{\fad(500,500)}It's been a while without your face
+Dialogue: 0,0:00:31.45,0:00:36.45,Default,,0,0,0,,{\fad(500,500)}But I saw your picture on the wall the other day
+Dialogue: 0,0:00:37.46,0:00:42.17,Default,,0,0,0,,{\fad(500,500)}Too much distance, too much space
+Dialogue: 0,0:00:42.17,0:00:47.17,Default,,0,0,0,,{\fad(500,500)}You need to come back home and run along
+Dialogue: 0,0:00:48.72,0:00:53.72,Default,,0,0,0,,{\fad(500,500)}I'm waiting for the light to change
+Dialogue: 0,0:00:54.47,0:00:59.47,Default,,0,0,0,,{\fad(500,500)}You ask me how I've been and I'm good, I can't complain
+Dialogue: 0,0:01:00.32,0:01:05.19,Default,,0,0,0,,{\fad(500,500)}Times get harder, things get strange
+Dialogue: 0,0:01:05.48,0:01:10.35,Default,,0,0,0,,{\fad(500,500)}All I know, I don't want you gone
+Dialogue: 0,0:01:10.35,0:01:15.34,Default,,0,0,0,,{\fad(500,500)}I know it hasn't been easy lately
+Dialogue: 0,0:01:15.87,0:01:20.87,Default,,0,0,0,,{\fad(500,500)}But you don't want to leave me, baby
+Dialogue: 0,0:01:21.38,0:01:26.37,Default,,0,0,0,,{\fad(500,500)}And you know I hate to keep you waiting
+Dialogue: 0,0:01:27.68,0:01:32.68,Default,,0,0,0,,{\fad(500,500)}But when it's right, girl, it's right
+Dialogue: 0,0:01:34.92,0:01:36.71,Default,,0,0,0,,{\fad(500,500)}Days turn into nights
+Dialogue: 0,0:01:36.71,0:01:40.64,Default,,0,0,0,,{\fad(500,500)}Conversations turn into fights, we gon' be alright
+Dialogue: 0,0:01:40.64,0:01:42.44,Default,,0,0,0,,{\fad(500,500)}Love turn into life
+Dialogue: 0,0:01:42.44,0:01:46.32,Default,,0,0,0,,{\fad(500,500)}Girl, you been burnin' so bright, let me turn off the lights
+Dialogue: 0,0:01:46.32,0:01:51.31,Default,,0,0,0,,{\fad(500,500)}Stay awake 'til the morning
+Dialogue: 0,0:01:51.69,0:01:56.69,Default,,0,0,0,,{\fad(500,500)}It ain't always great, but it's never boring
+Dialogue: 0,0:01:57.38,0:02:02.79,Default,,0,0,0,,{\fad(500,500)}And I been itching for your love
+Dialogue: 0,0:02:02.90,0:02:07.39,Default,,0,0,0,,{\fad(500,500)}Don't want to feel a single thing if it ain't your touch
+Dialogue: 0,0:02:07.39,0:02:10.08,Default,,0,0,0,,{\fad(500,500)}I get drunk and become numb
+Dialogue: 0,0:02:10.08,0:02:13.28,Default,,0,0,0,,{\fad(500,500)}Just want to stumble into us
+Dialogue: 0,0:02:13.28,0:02:18.28,Default,,0,0,0,,{\fad(500,500)}But baby, don't stop now 'cause it ain't over
+Dialogue: 0,0:02:20.25,0:02:25.25,Default,,0,0,0,,{\fad(500,500)}Three years ago I was so dumb
+Dialogue: 0,0:02:25.28,0:02:30.28,Default,,0,0,0,,{\fad(500,500)}Clueless, young and stupid, but look at who I have become
+Dialogue: 0,0:02:30.82,0:02:35.81,Default,,0,0,0,,{\fad(500,500)}I ain't gonna break your heart, promise it's always safe
+Dialogue: 0,0:02:36.25,0:02:41.11,Default,,0,0,0,,{\fad(500,500)}Baby, don't go now, pull me closer
+Dialogue: 0,0:02:41.11,0:02:46.11,Default,,0,0,0,,{\fad(500,500)}I know it hasn't been easy lately
+Dialogue: 0,0:02:47.11,0:02:52.11,Default,,0,0,0,,{\fad(500,500)}But you don't want to leave me, baby
+Dialogue: 0,0:02:52.99,0:02:57.99,Default,,0,0,0,,{\fad(500,500)}You know I hate to keep you waiting
+Dialogue: 0,0:02:58.39,0:03:03.89,Default,,0,0,0,,{\fad(500,500)}But I know when it's right, girl, it's right
+Dialogue: 0,0:03:06.03,0:03:07.78,Default,,0,0,0,,{\fad(500,500)}Days turn into nights
+Dialogue: 0,0:03:07.78,0:03:11.71,Default,,0,0,0,,{\fad(500,500)}Conversations turn into fights, we gon' be alright
+Dialogue: 0,0:03:11.71,0:03:13.49,Default,,0,0,0,,{\fad(500,500)}'Cause love turn into life
+Dialogue: 0,0:03:13.49,0:03:17.47,Default,,0,0,0,,{\fad(500,500)}Girl, you been burnin' so bright, let me turn off the lights
+Dialogue: 0,0:03:17.47,0:03:22.47,Default,,0,0,0,,{\fad(500,500)}Stay awake 'til the morning
+Dialogue: 0,0:03:22.90,0:03:27.90,Default,,0,0,0,,{\fad(500,500)}It ain't always great, but it's never boring
+Dialogue: 0,0:03:44.50,0:03:49.5,Default,,0,0,0,,{\fad(500,500)}But when it's right, girl, it's right
+Dialogue: 0,0:05:06.50,0:05:11.5,Default,,0,0,0,,{\fad(500,500)}There's a room somewhere up above the tree
+Dialogue: 0,0:05:13.66,0:05:18.66,Default,,0,0,0,,{\fad(500,500)}And once you get there, you don't ever wanna leave no-no-no
+Dialogue: 0,0:05:21.50,0:05:26.5,Default,,0,0,0,,{\fad(500,500)}Feelin' good, feelin' free
+Dialogue: 0,0:05:26.67,0:05:31.67,Default,,0,0,0,,{\fad(500,500)}When I can finally get away
+Dialogue: 0,0:05:35.42,0:05:40.42,Default,,0,0,0,,{\fad(500,500)}I need to see it with my own eyes
+Dialogue: 0,0:05:42.38,0:05:47.37,Default,,0,0,0,,{\fad(500,500)}Hope it remembers that it knows my face
+Dialogue: 0,0:05:49.43,0:05:54.43,Default,,0,0,0,,{\fad(500,500)}I'll come and see you if you don't mind
+Dialogue: 0,0:05:54.55,0:05:59.55,Default,,0,0,0,,{\fad(500,500)}When I can finally get away
+Dialogue: 0,0:06:30.62,0:06:35.62,Default,,0,0,0,,{\fad(500,500)}There's a place right up above the clouds
+Dialogue: 0,0:06:38.44,0:06:43.44,Default,,0,0,0,,{\fad(500,500)}Somewhere in between later and right now
+Dialogue: 0,0:06:45.84,0:06:48.80,Default,,0,0,0,,{\fad(500,500)}And you don't have to be scared, no
+Dialogue: 0,0:06:48.80,0:06:50.58,Default,,0,0,0,,{\fad(500,500)}I'll be there
+Dialogue: 0,0:06:50.58,0:06:55.57,Default,,0,0,0,,{\fad(500,500)}When I can finally get away
+Dialogue: 0,0:06:59.91,0:07:03.35,Default,,0,0,0,,{\fad(500,500)}Soarin' uncontrollably
+Dialogue: 0,0:07:03.35,0:07:08.50,Default,,0,0,0,,{\fad(500,500)}Gravity ain't holdin' me down
+Dialogue: 0,0:07:13.68,0:07:18.53,Default,,0,0,0,,{\fad(500,500)}I'll fly to your front door some time
+Dialogue: 0,0:07:18.53,0:07:23.52,Default,,0,0,0,,{\fad(500,500)}When I can finally get away
