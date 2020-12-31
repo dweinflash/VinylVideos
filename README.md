@@ -6,8 +6,7 @@ Add fading subtitles to a music video file to sync with the music played on viny
     - Circles_SideD.m4a
 2. Gather the lyrics for the side of the record.
     - Circles_SideD.txt
-3. Use lyrics and http://www.lrcgenerator.com/ to generate .lrc file.
-    - Use audio file to sync lyrics with music.
+3. Use lyrics, audio file and http://www.lrcgenerator.com/ to generate .lrc file.
     - Circles_SideD.lrc
 4. Use lrc.py to generate .ass file for fading subtitles effect.
     - Circles_SideD.ass
